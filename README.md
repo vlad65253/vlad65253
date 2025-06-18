@@ -1,20 +1,14 @@
-## Привет! Меня зовут Андрей
-# Java-разработчик
-# 🛠 Технологический стек
-Основные технологии
+# Привет! Меня зовут Владислав
+## Java-разработчик
+### 🛠 Технологический стек
+#### Основные технологии
 Java SE (Core, Multithreading, Collections, Stream API)
-
-Spring Framework:
-
-Spring Boot 3.X
-
-Spring Cloud (Config, Eureka, Gateway)
-
-Spring Data JPA
-
-Hibernate ORM
-
-Базы данных
+##### Spring Framework:
+  - Spring Boot 3.X
+  - Spring Cloud (Config, Eureka, Gateway)
+  - Spring Data JPA
+  - Hibernate ORM
+###### Базы данных
 PostgreSQL
 
 H2 (для тестирования)
