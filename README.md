@@ -1,16 +1,55 @@
-## Hi there 👋
+##👋 Привет! Меня зовут Андрей
+#Java-разработчик
+🛠 Технологический стек
+Основные технологии
+Java SE (Core, Multithreading, Collections, Stream API)
 
-<!--
-**vlad65253/vlad65253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Spring Framework:
 
-Here are some ideas to get you started:
+Spring Boot 3.X
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Spring Cloud (Config, Eureka, Gateway)
+
+Spring Data JPA
+
+Hibernate ORM
+
+Базы данных
+PostgreSQL
+
+H2 (для тестирования)
+
+SQL (оптимизация запросов, индексы)
+
+Микросервисная архитектура
+gRPC (высокопроизводительный RPC)
+
+Apache Kafka (асинхронная обработка событий)
+
+Feign-клиенты (REST-коммуникация между сервисами)
+
+DevOps & Инфраструктура
+Docker (контейнеризация)
+
+Docker Compose (оркестрация)
+
+Инструменты разработки
+Maven (сборка проектов)
+
+Git (система контроля версий)
+
+Postman (тестирование API)
+
+Тестирование
+Unit-тесты (JUnit 5)
+
+Mock-тестирование (Mockito)
+
+Интеграционные тесты (MockMvc)
+
+Дополнительные технологии
+Querydsl (типобезопасные запросы)
+
+Circuit Breaker (Resilience4j, отказоустойчивость)
+
+Avro & Protobuf (сериализация данных)
