@@ -26,3 +26,6 @@ Java SE (Core, Multithreading, Collections, Stream API)
   - Mock-тестирование (Mockito)
   - Интеграционные тесты (MockMvc)
 
+#### 📫 Мои контакты:
+#### Telegram: @vladgorbushin
+#### Email: gorbushinvladislav@yandex.ru
