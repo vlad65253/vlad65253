@@ -5,7 +5,7 @@
 Java SE (Core, Multithreading, Collections, Stream API)
 ##### Spring Framework:
   - Spring Boot 3.X
-  - Spring Cloud (Config, Eureka, Gateway)
+  - Spring Cloud
   - Spring Data JPA
   - Hibernate ORM
 ##### Базы данных
